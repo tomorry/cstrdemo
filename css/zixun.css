@@ -13,7 +13,7 @@ body{background: rgb(238,238,238)}
 footer{text-align: center;background: rgb(102,102,102);color:whitesmoke;height: 100px;padding-top: 30px;}
 footer a{text-decoration: none;color: whitesmoke;}
 @media screen and (max-width: 780px){
-    img{width: 145px;height: 110px;}
+    .row img{width: 145px;height: 110px;}
     .con_1{background: black;width: 101%;height: 100%;color: whitesmoke;padding-top: 100px;}
     .box p{-webkit-line-clamp: 3;}
 }
